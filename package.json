@@ -1,5 +1,6 @@
 {
-	"name": "Arnav Praneet",
+	"name": "fcc-learn-npm-package-json",
+	"author": "Arnav Praneet",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
